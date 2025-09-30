@@ -1,4 +1,4 @@
-# Natural Language Processing (NLP) Projects
+# Natural Language Processing (NLP)
 
 **[Fall 2024] COMS 4705**
 
